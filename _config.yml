@@ -1,9 +1,8 @@
 # Site settings
-title: cookiemouseµÄ²©¿Í
-SEOTitle: cookiemouseµÄ²©¿Í | cookiemouse's Blog
-header-img: img/battleman_bg.jpg
+title: cookiemouseçš„åšå®¢
+SEOTitle: cookiemouseçš„åšå®¢ | cookiemouse's Blog
 email: cookiemouse@163.com
-description: "cookiemouseµÄĞ¡±ıÎİ£¬ÓĞºÃ³ÔµÄÇúÆæ±ı¡£"
+description: "cookiemouseçš„å°é¥¼å±‹ï¼Œæœ‰å¥½åƒçš„æ›²å¥‡é¥¼ã€‚"
 keyword: "cookiemouse"
 url: "https://cookiemouse.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,7 +11,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-#zhihu_username:     Ğ»Ğ¡Åô
+#zhihu_username:     è°¢å°é¹
 github_username:    cookiemouse
 
 # Build settings
@@ -64,8 +63,7 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Android Application Developer <br> life is a gift<br>gift no always sweet"
-sidebar-avatar: /img/captain_android.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Android Application Developer <br> life is a gift<br>gift no always sweet"    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
