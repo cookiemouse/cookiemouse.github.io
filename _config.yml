@@ -1,9 +1,9 @@
 # Site settings
 title: cookiemouse的博客
-SEOTitle: cookiemouse的博客 | cookiemouse's Blog
+SEOTitle: cookiemouse's Blog
 email: cookiemouse@163.com
-description: "cookiemouse的小饼屋，有好吃的曲奇饼。"
-keyword: "cookiemouse"
+description: "cookiemouse的小饼屋"
+keyword: "Blog"
 url: "https://cookiemouse.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -11,7 +11,6 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-#zhihu_username:     谢小鹏
 github_username:    cookiemouse
 
 # Build settings
@@ -43,17 +42,11 @@ kramdown:
 # Disqus settings
 #disqus_username: _your_disqus_short_name_
 
-# Duoshuo settings
-
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
-
-# Analytics settings
-# Baidu Analytics
-ba_track_id: [ecb804bab8e4c19d23ce1dd11d5d36fb]
 
 # Google Analytics
 # ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
@@ -63,7 +56,7 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Android Application Developer <br> life is a gift<br>gift no always sweet"    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "这是描述"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
